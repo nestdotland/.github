@@ -1,3 +1,3 @@
-![Nest Hero Image](./banner.png)
+![Nest Hero Image](./profile/banner.png)
 
 <!-- BRB -->
