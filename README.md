@@ -1,2 +1,3 @@
 # .github
-🦄 Nest Default Community Health Files
+
+_Community health files for the @nestdotland organization_
